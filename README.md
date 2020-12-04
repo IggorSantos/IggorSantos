@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React,Javascript**
 
-- 📫 How to reach me **igor.sagitarius@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/igor-santos-963b21195/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
