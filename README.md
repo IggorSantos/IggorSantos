@@ -5,6 +5,14 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/igor-santos-963b21195/**
 
+### Languages e Tools
+
+-HTML
+-CSS
+-JAVASCRIPT
+-REACT
+-GIT
+
 
 ### About me
 
