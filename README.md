@@ -7,11 +7,11 @@
 
 ### Languages e Tools
 
--HTML
--CSS
--JAVASCRIPT
--REACT
--GIT
+-HTML</br>
+-CSS</br>
+-JAVASCRIPT</br>
+-REACT</br>
+-GIT</br>
 
 
 ### About me
