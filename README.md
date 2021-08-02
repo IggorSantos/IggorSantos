@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou Igor Santos</h1>
+<h1 align="center">Hi there 👋 I,m Igor Santos</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
 - 🌱 I’m currently learning **React,Javascript**
