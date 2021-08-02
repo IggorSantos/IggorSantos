@@ -5,6 +5,12 @@
 
 - 📫 How to reach me **https://www.linkedin.com/in/igor-santos-963b21195/**
 
+ <div>
+  <a href="https://github.com/IggorSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IggorSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IggorSantos&hide=java&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 ### Languages e Tools
 
