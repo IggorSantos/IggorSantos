@@ -1,13 +1,7 @@
 <h1 align="center">Hi there 👋 I,m Igor Santos</h1>
 <h3 align="center">A passionate frontend developer from Brasil</h3>
 
- <div>
-  <a href="https://github.com/IggorSantos">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=IggorSantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IggorSantos&hide=java&layout=compact&langs_count=7&theme=dark"/>
-</div>
- 
- ### Languages e Tools
+  ### Languages e Tools
  
  <div style="display: inline_block"></br>
     <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
